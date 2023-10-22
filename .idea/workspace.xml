@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebe37c50-599b-4784-9e11-3e00f8db64ae" name="Changes" comment="add new class: Library">
-      <change afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
+    <list default="true" id="ebe37c50-599b-4784-9e11-3e00f8db64ae" name="Changes" comment="some system changes">
+      <change afterPath="$PROJECT_DIR$/src/test/java/BookTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +58,21 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LibraryTest">
-    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookTest">
+    <configuration name="BookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab_one" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LibraryTest" />
+      <option name="MAIN_CLASS_NAME" value="BookTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LibraryTest.addBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LibraryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Lab_one" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="LibraryTest" />
-      <option name="METHOD_NAME" value="addBook" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookTest" />
         <item itemvalue="JUnit.LibraryTest" />
         <item itemvalue="JUnit.LibraryTest.testAddBook" />
         <item itemvalue="JUnit.LibraryTest.searchBookByTitle" />
         <item itemvalue="JUnit.LibraryTest.displayBooks" />
-        <item itemvalue="JUnit.LibraryTest.addBook" />
       </list>
     </recent_temporary>
   </component>
@@ -143,12 +140,36 @@
       <option name="project" value="LOCAL" />
       <updated>1697969505059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edited class Library">
+      <created>1698000868927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698000868927</updated>
+    </task>
+    <task id="LOCAL-00004" summary="create test for library class">
+      <created>1698000889974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698000889974</updated>
+    </task>
+    <task id="LOCAL-00005" summary="some system changes">
+      <created>1698000907709</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698000907709</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create and add class: Book" />
     <MESSAGE value="add new class: Library" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new class: Library" />
+    <MESSAGE value="edited class Library" />
+    <MESSAGE value="create test for library class" />
+    <MESSAGE value="some system changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="some system changes" />
   </component>
 </project>
