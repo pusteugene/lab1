@@ -8,6 +8,10 @@ public class Library {
         books.add(book);
     }
 
+    public List<Book> getBooks() {
+        return books;
+    }
+
     public void displayBooks() {
         for (Book book : books) {
             System.out.println(book);
